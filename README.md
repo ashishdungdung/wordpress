@@ -1,5 +1,6 @@
-# wordpress
-The script provided is now set up for a successful WordPress installation with LiteSpeed and Nginx, including advanced features like TLS 1.3, HTTP/2, HTTP/3, QUIC, Zstandard compression, and BBR. 
+# Wordpress with LiteSpeed and Nginx 
+
+# The script provided is now set up for a successful WordPress installation with LiteSpeed and Nginx, including advanced features like TLS 1.3, HTTP/2, HTTP/3, QUIC, Zstandard compression, and BBR. 
 
 It also integrates Redis for caching, enables LiteSpeed Cache, and configures SSL certificates with Certbot for both HTTP and HTTPS.
 
